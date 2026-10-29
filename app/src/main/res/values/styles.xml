@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.EazyCam" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#B9FF45</item>
+        <item name="colorPrimaryVariant">#8CCB20</item>
+        <item name="colorOnPrimary">#101010</item>
+        <item name="colorSecondary">#B9FF45</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">#080808</item>
+        <item name="android:navigationBarColor">#080808</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
